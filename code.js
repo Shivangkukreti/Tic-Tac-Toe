@@ -3,7 +3,7 @@ let all=document.querySelectorAll(".all")
 let count=0
 let x=[]
 let o=[]
-let win=['123','369','789','147','258','159','357']
+let win=['123','369','789','147','258','159','357'] //hello
 
 
 all.forEach((ele)=>{
